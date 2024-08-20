@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GambleBot.client.iml" filepath="$PROJECT_DIR$/.idea/modules/GambleBot.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GambleBot.main.iml" filepath="$PROJECT_DIR$/.idea/modules/GambleBot.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GambleBot.test.iml" filepath="$PROJECT_DIR$/.idea/modules/GambleBot.test.iml" />
+    </modules>
+  </component>
+</project>
